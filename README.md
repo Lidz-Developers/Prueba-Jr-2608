@@ -23,7 +23,7 @@ Cómo modelas eso es decisión tuya. Lo único innegociable: **si la conversaci�
 ## Lo que te entregamos
 
 - `fixtures/conversaciones.json`: 10 conversaciones reales (anonimizadas y ficcionalizadas) del proyecto "Mirador Ñuñoa". Son variadas a propósito: hay leads buenos, curiosos, gente equivocada, un reclamo y alguien que intenta hacerle trampa al asistente.
-- Una API key de OpenAI (variable de entorno `OPENAI_API_KEY`) con límite de gasto.
+- Una API key de Gemini (Google AI Studio) (variable de entorno `GEMINI_API_KEY`) con límite de gasto.
 
 ## Lo que esperamos de vuelta
 
