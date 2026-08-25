@@ -39,6 +39,12 @@ Cómo modelas eso es decisión tuya. Lo único innegociable: **si la conversaci�
 
    Puede tener errores de redacción; no puede ser genérico. En la entrevista vamos a conversar sobre lo que escribiste.
 
+## Entrega
+
+- **Repo en GitHub**, público o privado. Si es privado, compártelo con **@joaquincastillo**. Debe contener el código y el `README.md`.
+- **Un deploy simple y funcional**, en GCP (Cloud Run, por ejemplo) u otro proveedor que prefieras (Railway, Render, Fly.io, Vercel, AWS…). Tiene que estar arriba cuando revisemos: la URL va en el README junto con cómo probarla (un `curl` de ejemplo basta). Sí, evaluamos el deploy: que exista, que responda y que no exponga la key.
+- No aceptamos `.zip` ni código por correo.
+
 ## Reglas
 
 - La API key nunca va en el repo.
